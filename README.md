@@ -3,7 +3,7 @@
 Desenvolvedor FullStack, apaixonado em aprender novas tecnologias com foco em WEB e Devops.
 Comecei a desenvoler em 2017 no curso de Sistemas de Informação da UFMG e não parei mais.
 
-**Atualmente:** Trabalho na Fluna com Devops buscando melhorar sempre.
+**Atualmente:** Estou procurando um emprego que me ajude a trilhar um caminho espetacular pela computação.
 
 
 # 📧 Contato:
